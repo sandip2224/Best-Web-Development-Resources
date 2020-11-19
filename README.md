@@ -28,7 +28,7 @@
 | https://feathericons.com/                      | Open-source icons collection.         |
 | https://materialdesignicons.com/               | Collection of material design icons   |
 | https://thenounproject.com/                    | Library of custom icons created by global community. |
-| https://leungwensen.github.io/svg-icon/      y  | Collection of SVG icons.              |
+| https://leungwensen.github.io/svg-icon/        | Collection of SVG icons.              |
 | http://svgicons.sparkk.fr/                     | Library of SVG icons.                 |
 | https://placeit.net/   | Best website mockup placeholder |
 | https://webcode.tools/   | Web code snippet generator |
