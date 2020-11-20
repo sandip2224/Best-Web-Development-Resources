@@ -39,6 +39,7 @@
 | https://neumorphism.io/ | Generate Soft-UI CSS code 
 | https://getwaves.io/ | Make some waves!|
 | https://www.blobmaker.app/ | Organic SVG shapes for your next design |
+| https://lottiefiles.com/ | SVG Animations for your designs |
 
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
