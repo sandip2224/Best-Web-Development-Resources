@@ -35,9 +35,12 @@
 | https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b | Stock photos that dont suck |
 | https://codepen.io/ | The best place to build, test, and discover front-end code.|
 | https://codesandbox.io/ | An instant IDE on any device with a web browser. |
-|https://jsfiddle.net/ | The best place to build, test, and discover front-end code in web browser |
-|https://neumorphism.io/| Generate Soft-UI CSS code 
-|https://getwaves.io/| Make some waves!|
+| https://jsfiddle.net/ | The best place to build, test, and discover front-end code in web browser |
+| https://neumorphism.io/ | Generate Soft-UI CSS code 
+| https://getwaves.io/ | Make some waves!|
+| https://www.blobmaker.app/ | Organic SVG shapes for your next design |
+
+
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
 > Thank you @Ampsteric for your wonderful resources.
