@@ -32,7 +32,7 @@
 | http://svgicons.sparkk.fr/                     | Library of SVG icons.                 |
 | https://placeit.net/   | Best website mockup placeholder |
 | https://webcode.tools/   | Web code snippet generator |
-| https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b | Stock photos that dont suck |
+| [https://medium.com/@dustin/stock-photos](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) | Stock photos that dont suck |
 | https://codepen.io/ | The best place to build, test, and discover front-end code.|
 | https://codesandbox.io/ | An instant IDE on any device with a web browser. |
 | https://jsfiddle.net/ | The best place to build, test, and discover front-end code in web browser |
