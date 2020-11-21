@@ -49,8 +49,6 @@
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
-> Thank you @Ampsteric for your wonderful resources.
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
