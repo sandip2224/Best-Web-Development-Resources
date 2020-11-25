@@ -15,7 +15,7 @@
 | https://undraw.co/   | Open-source illustrations for grabs   |
 | https://illlustrations.co/   | Free illustrations up for grabs  |
 | https://glyphy.io/        | Copy the Glyphs to Your Clipboard |
-| http://thepatternlibrary.com/     Best pattern library    |
+| http://thepatternlibrary.com/ |    Best pattern library    |
 | https://www.flaticon.com/   | Library of icons.                     |
 | https://feathericons.com/  | Open-source icons collection.         |
 | https://materialdesignicons.com/  | Collection of material design icons   |
