@@ -1,7 +1,4 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > I encourage you to submit a new issue or raise a PR if you wish to suggest changes or add more resources to it.
 
