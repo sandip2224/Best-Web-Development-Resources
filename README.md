@@ -77,7 +77,7 @@
 
 <h3>&#8627; Stargazers</h3>
 
-[![Stargazers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/stars/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/My-README.md-Template/stargazers)
+[![Stargazers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/stars/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/stargazers)
 
 <h3>&#8627; Forkers</h3>
 
