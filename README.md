@@ -60,6 +60,7 @@
 | https://www.webfx.com/web-design/hex-to-rgb/ | Instantly convert hex color to rgb |
 | https://brandcolors.net/ | Colors used by famous brands |
 | https://bootflat.github.io/color-picker.html | Awesome flat color generator |
+| https://colorhunt.co/ | Infinity of color palettes |
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
