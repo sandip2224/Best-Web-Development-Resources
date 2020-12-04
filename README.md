@@ -63,22 +63,10 @@
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
-## Contributors ✨
+<p>&#8627; Stargazers</p>
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+[![Stargazers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/stars/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/My-README.md-Template/stargazers)
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://sandipan-2224.web.app/"><img src="https://avatars3.githubusercontent.com/u/61842142?v=4" width="100px;" alt=""/><br /><sub><b>Sandipan Das</b></sub></a><br /><a href="#content-sandip2224" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/sibashish99"><img src="https://avatars1.githubusercontent.com/u/62691250?v=4" width="100px;" alt=""/><br /><sub><b>Sibashish Biswas </b></sub></a><br /><a href="#content-sibashish99" title="Content">🖋</a></td>
-  </tr>
-</table>
+<p>&#8627; Forkers</p>
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+[![Forkers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/forks/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/network/members)
