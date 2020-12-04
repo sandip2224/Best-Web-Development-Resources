@@ -45,7 +45,7 @@
 | https://www.blobmaker.app/ | Organic SVG shapes for your next design |
 | https://lottiefiles.com/ | SVG Animations for your designs |
 |https://www.pexels.com/| The best free stock photos & videos shared by talented creators.|
-|https://www.vecteezy.com/ | free vector art, stock photos & videos. |
+|https://www.vecteezy.com/ | Free vector art, stock photos & videos. |
 | https://graphicburger.com/ | Tasty design resources that are high resolution. |
 | https://pixelbuddha.net/ | Premium design resources of the highest quality for professional community. |
 | https://freebiesbug.com/ | Latest PSDs and other resources for free |
@@ -60,6 +60,7 @@
 | https://www.webfx.com/web-design/hex-to-rgb/ | Instantly convert hex color to rgb |
 | https://brandcolors.net/ | Colors used by famous brands |
 | https://bootflat.github.io/color-picker.html | Awesome flat color generator |
+| https://colorhunt.co/ | Infinity of color palettes |
 | https://balsamiq.com/ | Rapid, Effective wireframe playground |
 | https://wireframe.cc/ | Wireframes made easy |
 | https://www.uxpin.com/ | Easy mockup design maker |
@@ -74,7 +75,6 @@
 | http://brackets.io/ | A modern, open source text editor |
 | http://ami.responsivedesign.is/ | Find out whether your site is responsive or not in an instant |
 | http://www.responsinator.com/ | Mobile responsive website design checker |
-
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
