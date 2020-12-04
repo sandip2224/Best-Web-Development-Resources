@@ -60,13 +60,28 @@
 | https://www.webfx.com/web-design/hex-to-rgb/ | Instantly convert hex color to rgb |
 | https://brandcolors.net/ | Colors used by famous brands |
 | https://bootflat.github.io/color-picker.html | Awesome flat color generator |
+| https://balsamiq.com/ | Rapid, Effective wireframe playground |
+| https://wireframe.cc/ | Wireframes made easy |
+| https://www.uxpin.com/ | Easy mockup design maker |
+| https://sidebar.io/ | Collection of best design links everyday |
+| https://niice.co/ | Design search engine for UI/UX lovers |
+| https://www.webfx.com/tools/whats-my-browser-size/ | Find your browser size in an instant |
+| https://html5boilerplate.com/ | Most popular frontend HTML template on the web |
+| https://emberjs.com/ | A framework for ambitious web developers |
+| http://coffeescript.org/#introduction | It’s just JavaScript, but a lot simpler |
+| https://stylus-lang.com/ | Expressive, robust CSS |
+| http://www.responsivepx.com/ | Find exact breakpoints of a website |
+| http://brackets.io/ | A modern, open source text editor |
+| http://ami.responsivedesign.is/ | Find out whether your site is responsive or not in an instant |
+| http://www.responsinator.com/ | Mobile responsive website design checker |
+
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
-<p>&#8627; Stargazers</p>
+<h3>&#8627; Stargazers</h3>
 
 [![Stargazers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/stars/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/My-README.md-Template/stargazers)
 
-<p>&#8627; Forkers</p>
+<h3>&#8627; Forkers</h3>
 
 [![Forkers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/forks/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/network/members)
