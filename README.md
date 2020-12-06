@@ -82,3 +82,7 @@
 <h3>&#8627; Forkers</h3>
 
 [![Forkers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/forks/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/network/members)
+
+### Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/sandip2224/Best-Web-Development-Resources.svg)](https://starchart.cc/sandip2224/Best-Web-Development-Resources)
