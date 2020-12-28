@@ -73,15 +73,15 @@
 | http://ami.responsivedesign.is/ | Find out whether your site is responsive or not in an instant |
 | http://www.responsinator.com/ | Mobile responsive website design checker |
 | https://momentjs.com/ | Parse, validate, manipulate, and display dates in JavaScript. |
-| https://semantic-ui.com/ | Development framework that helps create beautiful, responsive layouts |
+| https://semantic-ui.com/ | Development framework to create beautiful, responsive layouts |
 | https://materializecss.com/ | Modern responsive front-end framework based on Material Design |
 | http://milligram.github.io/ |  Minimalistic CSS framework, when gzipped it is just 2kb in size.|
-| https://developers.google.com/speed/pagespeed/insights/ | Analyzes the content of a web page, then generates suggestions to make that page load faster. |
-| https://www.webpagetest.org/ | Free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. |
-| https://tools.keycdn.com/speed | KeyCDN's website speed test includes a waterfall breakdown and the website preview. |
+| https://developers.google.com/speed/pagespeed/insights/ | Analyzes the content of a web page. |
+| https://www.webpagetest.org/ | Free website speed test from multiple locations. |
+| https://tools.keycdn.com/speed | Includes a waterfall breakdown and the website preview. |
 | https://developers.google.com/web/tools/chrome-devtools/ | Set of web authoring and debugging tools built into Google Chrome. |
-| https://riot-optimizer.com/ | RIOT is a free image optimazation tool designed to efficiently optimize images for the web |
-| https://kraken.io/web-interface | Kraken.io is a robust, ultra-fast image optimizer and compressor with best-in-class algorithms |
+| https://riot-optimizer.com/ | Image optimazation tool designed to efficiently optimize images for the web |
+| https://kraken.io/web-interface | Robust, ultra-fast image optimizer and compressor with best-in-class algorithms |
 
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
