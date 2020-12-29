@@ -86,8 +86,10 @@
 | https://uispace.net/ | Search for high quality and hand-crafted freebies |
 | https://error404.fun/ | Fun 404 illustrations |
 | https://avataaars.com/ | Create avatar illustrations in Sketch App with this free library. |
-|  |  |
-
+| https://www.openpeeps.com/ | A hand-drawn illustration library. |
+| https://www.opendoodles.com/ | A Free Set of Sketchy Illustrations |
+| https://www.blackillustrations.com/ | Beautiful illustrations of black people for your next digital project |
+| https://heroicons.dev/ | Free MIT-licensed high-quality SVG icons for you to use in your web projects. |
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
