@@ -82,6 +82,11 @@
 | https://developers.google.com/web/tools/chrome-devtools/ | Set of web authoring and debugging tools built into Google Chrome. |
 | https://riot-optimizer.com/ | Image optimazation tool designed to efficiently optimize images for the web |
 | https://kraken.io/web-interface | Robust, ultra-fast image optimizer and compressor with best-in-class algorithms |
+| https://www.humaaans.com/ | Mix-&-match illustrations of people with a design library  |
+| https://uispace.net/ | Search for high quality and hand-crafted freebies |
+| https://error404.fun/ | Fun 404 illustrations |
+| https://avataaars.com/ | Create avatar illustrations in Sketch App with this free library. |
+|  |  |
 
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
