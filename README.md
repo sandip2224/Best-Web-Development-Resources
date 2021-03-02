@@ -93,13 +93,9 @@
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
-<h3>&#8627; Stargazers</h3>
-
-[![Stargazers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/stars/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/stargazers)
-
-<h3>&#8627; Forkers</h3>
-
-[![Forkers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/forks/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/network/members)
+<a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
+</a>
 
 ### Stargazers over time
 
