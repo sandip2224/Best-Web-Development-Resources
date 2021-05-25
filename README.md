@@ -90,6 +90,8 @@
 | https://www.opendoodles.com/ | A Free Set of Sketchy Illustrations |
 | https://www.blackillustrations.com/ | Beautiful illustrations of black people for your next digital project |
 | https://heroicons.dev/ | Free MIT-licensed high-quality SVG icons for you to use in your web projects. |
+| https://uigradients.com/ | Collection of beautiful color gradients |
+| https://www.remove.bg/ | Remove image background |
 
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
