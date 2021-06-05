@@ -1,6 +1,8 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 
-> I encourage you to submit a new issue or raise a PR if you wish to suggest changes or add more resources to it.
+**Any resource we missed out on?**
+
+**What are you waiting for? Go ahead and raise a Pull Request and we'll merge it in no time (Conditions Apply 😁)**
 
 
 | Link/Name                                      | Description                           |
