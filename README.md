@@ -94,7 +94,8 @@
 | https://heroicons.dev/ | Free MIT-licensed high-quality SVG icons for you to use in your web projects. |
 | https://uigradients.com/ | Collection of beautiful color gradients |
 | https://www.remove.bg/ | Remove image background |
-
+| https://p5js.org/ |A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for beginners|
+|https://ml5js.org/| Friendly Machine Learning for Web |
 **P.S: Please ⭐ this repository or fork it if you appreciate my hard work**
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
