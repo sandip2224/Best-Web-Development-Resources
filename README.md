@@ -97,6 +97,14 @@
 | https://p5js.org/ |A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for beginners|
 |https://ml5js.org/| Friendly Machine Learning for Web |
 |https://developer.mozilla.org/en-US/| Mozilla's Resources and guides to web development |
+|https://infinityfree.net/| Unlimited free web hosting for your websites |
+|https://tailblocks.cc/| Ready-to-use Tailwind CSS code blocks |
+|https://www.minifier.org/| Minifies JS and CSS code to reduce website load time |
+|https://unminify.com/| Makes JS and CSS code more readable |
+|https://search.google.com/test/mobile-friendly| Test if your code is mobile-friendly |
+|https://www.pingdom.com/| Get detailed statistics about your websites performance and speed |
+|https://analytics.google.com/| Free web analytics service |
+|https://www.protopie.io/| Easiest way to prototype |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
