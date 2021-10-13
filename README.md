@@ -96,6 +96,7 @@
 | https://www.remove.bg/ | Remove image background |
 | https://p5js.org/ |A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for beginners|
 |https://ml5js.org/| Friendly Machine Learning for Web |
+|https://developer.mozilla.org/en-US/| Mozilla's Resources and guides to web development |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
