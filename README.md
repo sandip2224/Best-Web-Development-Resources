@@ -93,6 +93,7 @@
 | https://www.blackillustrations.com/ | Beautiful illustrations of black people for your next digital project |
 | https://heroicons.dev/ | Free MIT-licensed high-quality SVG icons for you to use in your web projects. |
 | https://uigradients.com/ | Collection of beautiful color gradients |
+| https://www.0to255.com/ | Tool to chose, lighten, and darken colors
 | https://www.remove.bg/ | Remove image background |
 | https://p5js.org/ |A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for beginners|
 |https://ml5js.org/| Friendly Machine Learning for Web |
