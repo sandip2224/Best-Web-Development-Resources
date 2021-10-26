@@ -1,4 +1,7 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
 
@@ -127,3 +130,23 @@
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/sandip2224/Best-Web-Development-Resources.svg)](https://starchart.cc/sandip2224/Best-Web-Development-Resources)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/actualmermaid"><img src="https://avatars.githubusercontent.com/u/40399724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>actualmermaid</b></sub></a><br /><a href="https://github.com/sandip2224/Best-Web-Development-Resources_Hacktoberfest21/commits?author=actualmermaid" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
