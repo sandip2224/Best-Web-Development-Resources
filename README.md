@@ -112,6 +112,7 @@
 |https://tinypng.com/| Optimizes your WebP, PNG and JPEG images by 50-80% |
 |https://squoosh.app/| Optimizer that allows you to compress and compare images with different codecs in your browser. |
 |https://www.toptal.com/designers/htmlarrows/symbols/| Best place to get any type of HTML symbols and ASCII characters. |
+|https://pinetools.com/image-gradient-generator| Add gradient to any image. |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
