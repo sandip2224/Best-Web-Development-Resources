@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "akshi0409",
+      "name": "Akshita Sah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44814671?v=4",
+      "profile": "https://github.com/akshi0409",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Best-Web-Development-Resources_Hacktoberfest21",
+  "projectOwner": "sandip2224",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
