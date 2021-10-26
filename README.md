@@ -109,6 +109,8 @@
 |https://www.w3schools.com/whatis/| One of the best site to learn web development from scratch. It has tutorials of HTML, CSS, JavaScript, JQuery etc.|
 |https://www.freecodecamp.org/learn/responsive-web-design/| One of the best sites to learn and practice responsive web design |
 |https://www.pixeden.com/free-icons-set| Plenty of free icon sets, weather, social, line icons, and many more. |
+|https://tinypng.com/| Optimizes your WebP, PNG and JPEG images by 50-80% |
+|https://squoosh.app/| Optimizer that allows you to compress and compare images with different codecs in your browser. |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
