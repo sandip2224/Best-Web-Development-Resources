@@ -113,6 +113,7 @@
 |https://squoosh.app/| Optimizer that allows you to compress and compare images with different codecs in your browser. |
 |https://www.flaticon.com/| icons of web development in SVG, PSD, PNG, EPS format or as webfonts |
 |https://mockitt.wondershare.com/|online tool for building a web wireframes and prototypes |
+|https://www.toptal.com/designers/htmlarrows/symbols/| Best place to get any type of HTML symbols and ASCII characters. |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
