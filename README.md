@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -137,6 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://cutt.ly/kWP0hDz"><img src="https://avatars.githubusercontent.com/u/61842142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sandipan Das</b></sub></a><br /><a href="#content-sandip2224" title="Content">🖋</a></td>
     <td align="center"><a href="http://joaovictornsv.vercel.app"><img src="https://avatars.githubusercontent.com/u/65730630?v=4?s=100" width="100px;" alt=""/><br /><sub><b>João Victor Negreiros</b></sub></a><br /><a href="#content-joaovictornsv" title="Content">🖋</a></td>
     <td align="center"><a href="https://portfolioishita.netlify.app/"><img src="https://avatars.githubusercontent.com/u/72185572?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IshitaSharma3101</b></sub></a><br /><a href="#content-IshitaSharma3101" title="Content">🖋</a></td>
+    <td align="center"><a href="http://jayvardhanrathi.tech"><img src="https://avatars.githubusercontent.com/u/39644109?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayvardhan Rathi</b></sub></a><br /><a href="#content-ComputerScientist-01" title="Content">🖋</a></td>
   </tr>
 </table>
 
