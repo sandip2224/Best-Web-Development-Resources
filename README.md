@@ -114,7 +114,7 @@
 |https://www.flaticon.com/| icons of web development in SVG, PSD, PNG, EPS format or as webfonts |
 |https://mockitt.wondershare.com/|online tool for building a web wireframes and prototypes |
 |https://www.toptal.com/designers/htmlarrows/symbols/| Best place to get any type of HTML symbols and ASCII characters. |
-|https://pinetools.com/image-gradient-generator| Add gradient to any image. |
+|https://pinetools.com/image-gradient-generator| Website on which we can add gradient to any image. |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
