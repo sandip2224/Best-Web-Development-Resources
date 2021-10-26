@@ -103,6 +103,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "erianvc",
+      "name": "Erick Vargas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4275190?v=4",
+      "profile": "https://erianvc.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
