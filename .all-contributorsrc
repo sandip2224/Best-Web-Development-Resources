@@ -31,6 +31,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "joaovictornsv",
+      "name": "João Victor Negreiros",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65730630?v=4",
+      "profile": "http://joaovictornsv.vercel.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
