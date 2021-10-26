@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -147,6 +147,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/actualmermaid"><img src="https://avatars.githubusercontent.com/u/40399724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>actualmermaid</b></sub></a><br /><a href="#content-actualmermaid" title="Content">🖋</a></td>
     <td align="center"><a href="https://erianvc.dev"><img src="https://avatars.githubusercontent.com/u/4275190?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Erick Vargas</b></sub></a><br /><a href="#content-erianvc" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/mastermanav09"><img src="https://avatars.githubusercontent.com/u/71720621?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manav Naharwal</b></sub></a><br /><a href="#content-mastermanav09" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/coder-mohan"><img src="https://avatars.githubusercontent.com/u/91719416?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohan Sharma </b></sub></a><br /><a href="#content-coder-mohan" title="Content">🖋</a></td>
   </tr>
 </table>
 
