@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "thefear100",
+      "name": "thefear100",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41659335?v=4",
+      "profile": "https://github.com/thefear100",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Best-Web-Development-Resources_Hacktoberfest21",
+  "projectOwner": "sandip2224",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
