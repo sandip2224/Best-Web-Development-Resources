@@ -118,7 +118,7 @@
 |https://gf.dev/website-audit | Audit Your website like test your website speed , fully load time , time taken to load first byte , etc |
 |https://tailwindcss.com/|  CSS framework packed with classes like flex, pt-4, text-center and rotate-90 |
 |https://fontawesome.com/ |Get vector icons and social logos |
-
+|https://alligator.io/css/css-resources/| A curated list of CSS resources |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
