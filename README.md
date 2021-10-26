@@ -1,7 +1,4 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
 
@@ -122,4 +119,3 @@
 |https://tailwindcss.com/|  CSS framework packed with classes like flex, pt-4, text-center and rotate-90 |
 |https://fontawesome.com/ |Get vector icons and social logos |
 |https://alligator.io/css/css-resources/| A curated list of CSS resources |
-
