@@ -122,6 +122,7 @@
 |https://tailwindcss.com/|  CSS framework packed with classes like flex, pt-4, text-center and rotate-90 |
 |https://fontawesome.com/ |Get vector icons and social logos |
 |https://alligator.io/css/css-resources/| A curated list of CSS resources |
+|https://www.toptal.com/developers/hastebin/about.md| Haste is the prettiest, easiest to use pastebin ever made.|
 
 ## Contributors ✨
 
