@@ -140,7 +140,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://sibashish99.github.io/"><img src="https://avatars.githubusercontent.com/u/62691250?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sibashish Biswas </b></sub></a><br /><a href="https://github.com/sandip2224/Best-Web-Development-Resources_Hacktoberfest21/commits?author=sibashish99" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://sibashish99.github.io/"><img src="https://avatars.githubusercontent.com/u/62691250?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sibashish Biswas </b></sub></a><br /><a href="https://github.com/sandip2224/Best-Web-Development-Resources_Hacktoberfest21/commits?author=sibashish99" title="Documentation">📖</a> <a href="#content-sibashish99" title="Content">🖋</a></td>
   </tr>
 </table>
 
