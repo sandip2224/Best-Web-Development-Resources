@@ -111,6 +111,8 @@
 |https://www.pixeden.com/free-icons-set| Plenty of free icon sets, weather, social, line icons, and many more. |
 |https://tinypng.com/| Optimizes your WebP, PNG and JPEG images by 50-80% |
 |https://squoosh.app/| Optimizer that allows you to compress and compare images with different codecs in your browser. |
+|https://www.flaticon.com/| icons of web development in SVG, PSD, PNG, EPS format or as webfonts |
+|https://mockitt.wondershare.com/|online tool for building a web wireframes and prototypes |
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
