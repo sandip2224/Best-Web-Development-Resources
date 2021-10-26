@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -134,6 +134,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/thefear100"><img src="https://avatars.githubusercontent.com/u/41659335?v=4?s=100" width="100px;" alt=""/><br /><sub><b>thefear100</b></sub></a><br /><a href="#content-thefear100" title="Content">🖋</a></td>
     <td align="center"><a href="https://sibashish99.github.io/"><img src="https://avatars.githubusercontent.com/u/62691250?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sibashish Biswas </b></sub></a><br /><a href="#content-sibashish99" title="Content">🖋</a></td>
+    <td align="center"><a href="https://cutt.ly/kWP0hDz"><img src="https://avatars.githubusercontent.com/u/61842142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sandipan Das</b></sub></a><br /><a href="#content-sandip2224" title="Content">🖋</a></td>
   </tr>
 </table>
 
