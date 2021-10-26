@@ -120,10 +120,4 @@
 |https://fontawesome.com/ |Get vector icons and social logos |
 |https://alligator.io/css/css-resources/| A curated list of CSS resources |
 
-<a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sandip2224/Best-Web-Development-Resources" />
-</a>
 
-### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/sandip2224/Best-Web-Development-Resources.svg)](https://starchart.cc/sandip2224/Best-Web-Development-Resources)
