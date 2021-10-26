@@ -117,6 +117,7 @@
 |https://pinetools.com/image-gradient-generator| Website on which we can add gradient to any image. |
 |https://gf.dev/website-audit | Audit Your website like test your website speed , fully load time , time taken to load first byte , etc |
 |https://tailwindcss.com/|  CSS framework packed with classes like flex, pt-4, text-center and rotate-90 |
+|https://fontawesome.com/ |Get vector icons and social logos |
 
 
 <a href="https://github.com/sandip2224/Best-Web-Development-Resources/graphs/contributors">
