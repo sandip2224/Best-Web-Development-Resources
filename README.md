@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -143,6 +143,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://prateekbing.github.io"><img src="https://avatars.githubusercontent.com/u/68650217?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prateek Deshmukh</b></sub></a><br /><a href="#content-PrateekBing" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Eswari-Priya"><img src="https://avatars.githubusercontent.com/u/62456635?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eswari-Priya</b></sub></a><br /><a href="#content-Eswari-Priya" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/akshi0409"><img src="https://avatars.githubusercontent.com/u/44814671?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshita Sah</b></sub></a><br /><a href="#content-akshi0409" title="Content">🖋</a></td>
   </tr>
 </table>
 
