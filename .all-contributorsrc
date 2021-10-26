@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Technoguy01",
+      "name": "Tech Guy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93199060?v=4",
+      "profile": "https://github.com/Technoguy01",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Best-Web-Development-Resources_Hacktoberfest21",
+  "projectOwner": "sandip2224",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
