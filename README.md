@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -158,6 +158,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/raemarchetti"><img src="https://avatars.githubusercontent.com/u/38192556?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rae</b></sub></a><br /><a href="#content-raemarchetti" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/shahid-nadaf-03a4ba1aa"><img src="https://avatars.githubusercontent.com/u/85752121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shahid Nadaf</b></sub></a><br /><a href="#content-shahidcode" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/23-spurtiNarkhedkar"><img src="https://avatars.githubusercontent.com/u/86821974?v=4?s=100" width="100px;" alt=""/><br /><sub><b>23-spurtiNarkhedkar</b></sub></a><br /><a href="https://github.com/sandip2224/Best-Web-Development-Resources_Hacktoberfest21/commits?author=23-spurtiNarkhedkar" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/achoudh5"><img src="https://avatars.githubusercontent.com/u/34908313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anshul Choudhary</b></sub></a><br /><a href="#content-achoudh5" title="Content">🖋</a></td>
   </tr>
 </table>
 
