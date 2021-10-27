@@ -126,6 +126,7 @@
 |https://gtmetrix.com/|Gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.|
 |https://www.toptal.com/developers/hastebin/about.md| Haste is the prettiest, easiest to use pastebin ever made.|
 |https://sourceforge.net/|SourceForge offers easy access to all the open source code you’ll ever need. |
+|https://validator.w3.org/|The Validator is a free service by W3C that helps check the validity of Web documents. |
 
 ## Contributors ✨
 
