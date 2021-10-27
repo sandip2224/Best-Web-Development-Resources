@@ -10,6 +10,8 @@
 
 | Link/Name                                      | Description                           |
 |:----------------------------------------------|:-------------------------------------|
+| https://www.cursoemvideo.com/           | One of the best site to learn HTML, CSS, JS, PHP in Portuguese. Classes are free. |
+| https://cs50.harvard.edu/          |  Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. |
 | https://formspree.io/                          | Best form builder on the internet   |
 | https://cssgradient.io/gradient-backgrounds/   | Best CSS gradient collection  |
 | https://www.manypixels.co/gallery/   | Free Vectors and illustrations.   |

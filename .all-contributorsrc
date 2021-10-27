@@ -166,6 +166,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Paulojesus85",
+      "name": "Paulo Fernando Lara Pereira de Araujo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91154500?v=4",
+      "profile": "https://github.com/Paulojesus85",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -175,3 +184,4 @@
   "repoHost": "https://github.com",
   "skipCi": true
 }
+
