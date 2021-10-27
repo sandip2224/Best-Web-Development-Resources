@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -154,6 +154,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/raemarchetti"><img src="https://avatars.githubusercontent.com/u/38192556?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rae</b></sub></a><br /><a href="#content-raemarchetti" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/shahid-nadaf-03a4ba1aa"><img src="https://avatars.githubusercontent.com/u/85752121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shahid Nadaf</b></sub></a><br /><a href="#content-shahidcode" title="Content">🖋</a></td>
   </tr>
 </table>
 
