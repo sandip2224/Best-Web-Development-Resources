@@ -166,7 +166,7 @@
       "contributions": [
         "content"
       ]
-    }
+    }   
   ],
   "contributorsPerLine": 7,
   "projectName": "Best-Web-Development-Resources_Hacktoberfest21",
@@ -175,3 +175,4 @@
   "repoHost": "https://github.com",
   "skipCi": true
 }
+
