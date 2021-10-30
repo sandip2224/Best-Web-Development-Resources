@@ -1,6 +1,6 @@
 ## Curated list of awesome resources for developers and enthusiasts.❤
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Any resource we missed out on?**
@@ -165,6 +165,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/achoudh5"><img src="https://avatars.githubusercontent.com/u/34908313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anshul Choudhary</b></sub></a><br /><a href="#content-achoudh5" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Paulojesus85"><img src="https://avatars.githubusercontent.com/u/91154500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Fernando Lara Pereira de Araujo</b></sub></a><br /><a href="#content-Paulojesus85" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/NamanKansal230505"><img src="https://avatars.githubusercontent.com/u/64547645?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NamanKansal230505</b></sub></a><br /><a href="#content-NamanKansal230505" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/mvisic"><img src="https://avatars.githubusercontent.com/u/22491113?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mvisic</b></sub></a><br /><a href="#content-mvisic" title="Content">🖋</a></td>
   </tr>
 </table>
 
