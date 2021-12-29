@@ -132,6 +132,7 @@
 |https://sourceforge.net/|SourceForge offers easy access to all the open source code you’ll ever need. |
 |https://validator.w3.org/|The Validator is a free service by W3C that helps check the validity of Web documents. |
 |https://stripo.email/| Stripo is an awesome email design platform with API's to most email marketing platforms. |
+|https://tutorial.djangogirls.org/en/ | Best website for django |
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
