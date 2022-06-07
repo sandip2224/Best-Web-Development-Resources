@@ -134,6 +134,12 @@
 |https://stripo.email/| Stripo is an awesome email design platform with API's to most email marketing platforms. |
 |https://tutorial.djangogirls.org/en/ | Best website for django |
 |https://troopl.com | Create a free online portfolio of your work in minutes. |
+|https://www.artify.co/illustrations-figma | More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more. |
+|https://www.artify.co/vector-illustrations | Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish. |
+|https://www.3dicons.com/ | A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views. |
+|https://www.iconshock.com/ |2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :) |
+|https://www.optimizeimages.com | Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation. |
+|https://www.tshirtdesigns.com/mockups | You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business. |
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
