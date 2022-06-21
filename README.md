@@ -118,6 +118,8 @@
 |https://www.freecodecamp.org/learn/responsive-web-design/| One of the best sites to learn and practice responsive web design |
 |https://www.pixeden.com/free-icons-set| Plenty of free icon sets, weather, social, line icons, and many more. |
 |https://tinypng.com/| Optimizes your WebP, PNG and JPEG images by 50-80% |
+|https://pixabay.com/| Stunning free images & royalty free stock |
+|https://www.pexels.com/| The best free stock photos, royalty free images & videos shared by creators. |
 |https://squoosh.app/| Optimizer that allows you to compress and compare images with different codecs in your browser. |
 |https://www.flaticon.com/| icons of web development in SVG, PSD, PNG, EPS format or as webfonts |
 |https://mockitt.wondershare.com/|online tool for building a web wireframes and prototypes |
