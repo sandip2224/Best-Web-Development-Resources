@@ -140,6 +140,7 @@
 |https://www.iconshock.com/ |2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :) |
 |https://www.optimizeimages.com | Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation. |
 |https://www.tshirtdesigns.com/mockups | You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business. |
+| https://github.com/gibbok/typescript-book | A free and open-source TypeScript book covering fundamentals through advanced concepts, including TypeScript 7. |
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
