@@ -110,6 +110,7 @@
 |https://tailblocks.cc/| Ready-to-use Tailwind CSS code blocks |
 |https://www.minifier.org/| Minifies JS and CSS code to reduce website load time |
 |https://unminify.com/| Makes JS and CSS code more readable |
+| https://bestjson.com/json-diff | BestJSON JSON Diff: compare JSON structures and inspect added, removed or changed values by path. |
 |https://search.google.com/test/mobile-friendly| Test if your code is mobile-friendly |
 |https://www.pingdom.com/| Get detailed statistics about your websites performance and speed |
 |https://analytics.google.com/| Free web analytics service |
